@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Nail Art 1",
+        "photo_url": "https://imgur.com/rrpeEHz"
+    },
+    {
+        "id": 2,
+        "title": "Nail art 2",
+        "photo_url": "https://imgur.com/undefined"
+    },
+    {
+        "id": 3,
+        "title": "Nail Art 3",
+        "photo_url": "https://imgur.com/eCPngdB"
+    },
+    {
+        "id": 4,
+        "title": "Nail Art 4",
+        "photo_url": "https://imgur.com/2J0ismu"
+    },
+    {
+        "id": 5,
+        "title": "Nail Art 5",
+        "photo_url": "https://imgur.com/4vDEirA"
+    }
+]

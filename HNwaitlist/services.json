@@ -1,0 +1,42 @@
+[
+    {
+        "id": 5,
+        "service": "Gel Fullset",
+        "price": "50"
+    },
+    {
+        "id": 6,
+        "service": "Gel Pedicure",
+        "price": "50"
+    },
+    {
+        "id": 7,
+        "service": "Gel Manicure",
+        "price": "40"
+    },
+    {
+        "id": 8,
+        "service": "Dipping Powder Set",
+        "price": "50"
+    },
+    {
+        "id": 9,
+        "service": "Designs",
+        "price": "20"
+    },
+    {
+        "id": 4,
+        "service": "Regular Manicure",
+        "price": "22"
+    },
+    {
+        "id": 3,
+        "service": "Regular Pedicure",
+        "price": "33"
+    },
+    {
+        "id": 10,
+        "service": "Deluxe Pedicure",
+        "price": "48"
+    }
+]
