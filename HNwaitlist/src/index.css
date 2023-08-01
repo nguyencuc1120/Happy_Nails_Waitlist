@@ -5,7 +5,7 @@
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: rgb(33, 46, 84);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -18,8 +18,29 @@ a {
   font-weight: 500;
   color: #ffffff;
   text-decoration: inherit;
-
+  font-family:Georgia;
 }
+
+.home-link{
+  font-weight: 500;
+  font-size: 35px;
+  background-color: #2a5391;
+  border-radius: 26px;
+  border: 1px solid transparent;
+  padding: 0.3em 1em;
+  font-size: 1.5em;
+  color: #f5e067;
+  text-decoration: inherit;
+  font-family:Georgia;
+  
+}
+/* 'Lucida Sans Unicode' */
+
+.btn-delete{
+  font-size: 13px;
+}
+
+
 a:hover {
   color: #fee44c;
 }
@@ -30,17 +51,19 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  font-family:Georgia;
 }
 
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  font-family:Georgia;
 }
 
 button {
-  border-radius: 8px;
+  border-radius: 26px;
   border: 1px solid transparent;
-  padding: 0.6em 1em;
+  padding: 0.3em 1em;
   margin: 1px;
   font-size: 1em;
   font-weight: 500;

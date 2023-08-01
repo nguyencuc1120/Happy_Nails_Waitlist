@@ -10,21 +10,15 @@ const Home = (props) => {
             {/* <img src="public/logo.PNG" className='homepic'/>  */}
             
             <h2>Welcome to Happy Nails!</h2>
-            <button onClick={() => setCount((count) => count + 1)}> {count} ahead - Click to Join Waitlist </button> <br></br>
-            {/* <button>View Wait list</button><br></br>
-            <button>View Services</button> */}
-
-                <NavLink to="services">Services</NavLink><br></br>
-                <NavLink to="pictures">Pictures</NavLink>
+            {/* <button className="homebtn" onClick={() => setCount((count) => count + 1)}> {count} ahead - Click to Join Waitlist </button> <br></br> */}
+            <NavLink to="login">Login</NavLink><br></br>
+            <NavLink to="waiting2">View Waiting List</NavLink><br></br>
+            <NavLink to="services">Services</NavLink><br></br>
+            <NavLink to="pictures">Pictures</NavLink>
+                
             
         </div>
 
-// width="1650" height="980" alt=""
-        // <div className="home-links">
-        //     <NavLink to="services">Services</NavLink>
-        //     <NaveLink to="pictures">Pictures</NaveLink>
-        // </div>
-    
     )
  }
  

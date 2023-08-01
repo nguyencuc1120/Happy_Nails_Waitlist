@@ -4,6 +4,7 @@ import Footer from './components/Footer'
 import Main from './components/Main'
 import Home from './components/Home'
 import './App.css'
+import icon from '/logo.png'
 
 const App = () => {
 
@@ -16,24 +17,7 @@ const App = () => {
 
                 </div>
         )
-                // const name = "Jenny"
 
-        // const sayHello = () => {alert("hello")}
-        
-        // return (
-        //         <div className = "App">
-        //                 <div className = "app-header">
-        //                         <Header name= {name}/>
-        //                 </div>
-        //                 <div className = "app-main">
-        //                         <Main />
-        //                 </div>
-        //                 <div className = "app-footer">
-        //                         <Footer />
-        //                 </div>
-        //         </div>
-   
-        //         )
 
         }
 export default App

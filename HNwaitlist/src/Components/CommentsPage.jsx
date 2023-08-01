@@ -3,19 +3,19 @@ import { NavLink, useParams } from "react-router-dom"
 import axios from "axios";
 
 
-const servicesPage = () => {
+const Comments2Page = () => {
 
-    const [services, setServices] = useState();
+    const [comments2, setComments2] = useState();
     let { id } = useParams()
 
     useEffect(() => {
-        const getServices = async() => {
-            const response = await axios.get(`http://127.0.0.1:8000/services/`)
-            setServices(response.data)
+        const getComments2 = async() => {
+            const response = await axios.get(`http://127.0.0.1:8000/comments2/`)
+            setComments2(response.data)
             // .find((eve) => eve.name === id )
             console.log(response.data)
         }
-        console.log('got services')
+        console.log('got comments2')
         getServices()
     }, [])
 
