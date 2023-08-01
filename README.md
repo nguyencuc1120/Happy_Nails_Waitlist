@@ -5,6 +5,14 @@
 This is a waitlist application for Happy Nails Salon, which is a full-stack SPA that allows users to sign in with the desired service. Users can also view the pricelist and nail art pictures. It is a user-friendly experience for both customers and salon managers to view log in list without the hassle of decyphering handwritings. The managers can easily create and edit services/waiting clients/pictures/notes through the administrative user login.
 
 
+## Setting up:
+[Wireframe (Figma)](https://www.figma.com/file/dWeymDjTbIPlm7Wl1pXAHz/Untitled?type=whiteboard&node-id=0-1&t=ccnD33Rb5JrCTi8c-0)
+
+[Trello](https://trello.com/b/X6g2NFKE/hnw)
+
+[ERD](https://lucid.app/lucidchart/5be40c83-b49e-46d6-a043-61d8af3daf46/edit?invitationId=inv_216a7208-f911-4d92-b64a-cfe6bf25c70e&page=0_0# )
+
+
 
 ### Features
 - Create and manage waitlist: Admins can create, edit and delete services/waiting clients/pictures/notes
@@ -32,11 +40,5 @@ This is a waitlist application for Happy Nails Salon, which is a full-stack SPA 
   <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width=70>
 </p> 
 
-## Setting up:
-[Wireframe, Figma](https://www.figma.com/file/dWeymDjTbIPlm7Wl1pXAHz/Untitled?type=whiteboard&node-id=0-1&t=ccnD33Rb5JrCTi8c-0)
-
-[Trello](https://trello.com/b/X6g2NFKE/hnw)
-
-[ERD](https://lucid.app/lucidchart/5be40c83-b49e-46d6-a043-61d8af3daf46/edit?invitationId=inv_216a7208-f911-4d92-b64a-cfe6bf25c70e&page=0_0# )
 
 
