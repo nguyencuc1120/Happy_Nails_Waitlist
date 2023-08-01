@@ -33,23 +33,10 @@ This is a waitlist application for Happy Nails Salon, which is a full-stack SPA 
 </p> 
 
 ## Setting up:
-[Figma](https://www.figma.com/file/dWeymDjTbIPlm7Wl1pXAHz/Untitled?type=whiteboard&node-id=0-1&t=ccnD33Rb5JrCTi8c-0)
+[Wireframe, Figma](https://www.figma.com/file/dWeymDjTbIPlm7Wl1pXAHz/Untitled?type=whiteboard&node-id=0-1&t=ccnD33Rb5JrCTi8c-0)
 
-
-
-
-
-
-
-
-
-
-### Check out our thought process here
-
-[Trello](https://trello.com/b/WHDk53lX/tick-it)
+[Trello](https://trello.com/b/X6g2NFKE/hnw)
 
 [ERD](https://lucid.app/lucidchart/5be40c83-b49e-46d6-a043-61d8af3daf46/edit?invitationId=inv_216a7208-f911-4d92-b64a-cfe6bf25c70e&page=0_0# )
-
-[Wireframe](https://www.figma.com/file/b9pg3JLuXp4kW2LKfSJ9SU/Tick-It?type=design&node-id=0%3A1&mode=design&t=yDYjDLL4eaioYM2J-1)
 
 
