@@ -1,7 +1,7 @@
 # Happy Nails Waitlist
 ![](https://res.cloudinary.com/di90p71en/image/upload/v1690911737/readmepic_rol89i.png)
 
-### Description
+## Description
 This is a waitlist application for Happy Nails Salon, which is a full-stack SPA that allows users to sign in with the desired service. Users can also view the pricelist and nail art pictures. It is a user-friendly experience for both customers and salon managers to view log in list without the hassle of decyphering handwritings. The managers can easily create and edit services/waiting clients/pictures/notes through the administrative user login.
 
 
@@ -14,11 +14,11 @@ This is a waitlist application for Happy Nails Salon, which is a full-stack SPA 
 
 
 
-### Features
+## Features
 - Create and manage waitlist: Admins can create, edit and delete services/waiting clients/pictures/notes
 - Browsing: Users can view service details, waitlist details, nail art pictures
 
-### Technologies Used
+## Technologies Used
 #### Frontend
 <p align="left">
   <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width=70>
