@@ -42,6 +42,7 @@ const WaitingPage = (props) => {
         }
         console.log(`${name}, ${service}`)
         console.log(handleDelete);
+        getWaiting()
     }
 
     const getWaiting = async() => {
@@ -121,10 +122,10 @@ const WaitingPage = (props) => {
                 return(
                     
                     <div key={data.id}>
-                        <div className="service-name" value={body} name="body" onChange={(e) => setBody(e.target.value)}>{data.name} for {data.service}<button className="btn-delete" onClick={() => handleDelete(data.id)}>Delete</button></div> 
+                        <div className="service-name" value={body} name="body" onChange={(e) => setBody(e.target.value)}>({data.id}){data.name} for {data.service}<button className="btn-delete" onClick={() => handleDelete(data.id)}>Delete</button></div> 
                     
                     <div>
-                    <form  value={updateState.service}> 
+                    <form  className="wait-Form" value={updateState.service}> 
                     Name: <input id="name" onChange={handleChange} /><br/><br/>
                     Service: <input id="service" onChange={handleChange}  /><br/><br/>
                     <button type="submit"> Update </button><br/><br/>

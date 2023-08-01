@@ -27,6 +27,7 @@ import Home from './Home'
 import ServicesPage from './servicesPage'
 import PicturesList from './picturesList'
 import WaitingPage from './waitingpage'
+import Comments2Page from './CommentsPage'
 import Login from './login'
 import AdminPage from './AdminPage'
 // import Waitlist from './waitlist'
@@ -39,6 +40,7 @@ const Main = () => {
                 <Route exact path='/admin' element={<AdminPage />} />
                 <Route exact path='/pictures' element={<PicturesList />} />
                 <Route exact path='/waiting2' element={<WaitingPage />} />
+                <Route exact path='/comments2' element={<Comments2Page />} />
                 <Route exact path='/login' element={<Login />} />
         </Routes>
     )

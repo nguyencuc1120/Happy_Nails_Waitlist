@@ -13,6 +13,7 @@ const Home = (props) => {
             {/* <button className="homebtn" onClick={() => setCount((count) => count + 1)}> {count} ahead - Click to Join Waitlist </button> <br></br> */}
             <NavLink to="login">Login</NavLink><br></br>
             <NavLink to="waiting2">View Waiting List</NavLink><br></br>
+            <NavLink to="comments2">View Comments</NavLink><br></br>
             <NavLink to="services">Services</NavLink><br></br>
             <NavLink to="pictures">Pictures</NavLink>
                 
