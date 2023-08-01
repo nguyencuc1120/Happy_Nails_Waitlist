@@ -1,4 +1,4 @@
-# Happy_Nails_Waitlist
+# Happy_Nails Waitlist
 ! (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShpFw6TjihxeoqVhy_7yxy1gbySS50ghoVMg&usqp=CAU)
 
 ### Description
