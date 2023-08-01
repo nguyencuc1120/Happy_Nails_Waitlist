@@ -1,5 +1,5 @@
 # Happy Nails Waitlist
-! (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShpFw6TjihxeoqVhy_7yxy1gbySS50ghoVMg&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShpFw6TjihxeoqVhy_7yxy1gbySS50ghoVMg&usqp=CAU)
 
 ### Description
 This is a waitlist application for Happy Nails Salon, which is a full-stack SPA that allows users to sign in with the desired service. Users can also view the pricelist and nail art pictures. It is a user-friendly experience for both customers and salon managers to view log in list without the hassle of decyphering handwritings. The managers can easily create and edit services/waiting clients/pictures/notes through the administrative user login.
